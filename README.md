@@ -76,7 +76,7 @@ Puedes acceder al proyecto y obtener el código fuente desde su repositorio en [
 
 ## Autor
 Mario Alberto Valerdi Garduño
-[Linkedin Mario Valerdi](www.linkedin.com/in/mariovalerdi).
+[Linkedin Mario Valerdi](https://www.linkedin.com/in/mariovalerdi).
 
 
 #### Anotaciones finales:
